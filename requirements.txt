@@ -1,0 +1,6 @@
+llama-index
+llama-index-llms-ollama
+SpeechRecognition
+pyaudio
+openai-whisper
+pyttsx3

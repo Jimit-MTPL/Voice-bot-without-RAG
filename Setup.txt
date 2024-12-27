@@ -1,0 +1,5 @@
+1)Download zip file of ffmpeg named "ffmpeg-master-latest-win64-gpl.zip" from below url.
+  https://github.com/BtbN/FFmpeg-Builds/releases 
+  extract it and give bin folder path in code.
+ 
+2)Download and run exe file of ollama after that run ollama list command to check if it's successfully installed or not download ollama model by running ollama run llama3.2:1b
